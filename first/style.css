@@ -1,0 +1,41 @@
+
+header {
+  background-color: #444444;
+  padding-top: 80px;
+
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+article {
+  background-color: #EFEFEF;
+  width: 50%;
+  height: 470px;
+  float: left;
+}
+
+.col1 {
+  background-color: #D8D8D8;
+  height: 550px;
+  /*display: -webkit-flex;*/
+  width: 25%;
+  float: left;
+
+}
+
+.col2 {
+  background-color: #D8D8D8;
+  float: right;
+  width: 25%;
+  height: 550px;
+}
+
+footer {
+  background-color: #000;
+  width: 50%;
+  height: 80px;
+  float: left;
+}
